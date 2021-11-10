@@ -16,7 +16,7 @@ int main()
        if(arr[i]==key)
        {
            cout<<"YES"<<endl;
-           cout<<"no. of com[arison "<<j<<endl;
+           cout<<"no. of comparison "<<j<<endl;
            return 0;
        }
     }
